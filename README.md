@@ -45,4 +45,4 @@
 
 <h2>📊 GitHub Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmondYe0121&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdmondYe0121&hide=Jupyter%20Notebook&layout=compact&theme=tokyonight)
